@@ -11,7 +11,7 @@ if (modal == (6+4)) {
 
 }
 else{
-  alert( "Sizning javobingiz xato; "+ "To'g'ri javob: 10"  )
+  alert( "Sizning javobingiz xato; "+ "To'g'ri javob: " + (6+4 )
   console.log("To'g'ri javob: 6+4= "+ (6+4 ) + " Sizning javobingiz:" + modal);
 }
 
